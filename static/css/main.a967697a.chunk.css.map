@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss","Post.scss"],"names":[],"mappings":"AAAA,EACE,qBAAsB,CACvB,EAGC,QAAS,CCLX,YACE,cAAe","file":"main.a967697a.chunk.css","sourcesContent":["* {\n  box-sizing: border-box;\n}\n\np {\n  margin: 0;\n}\n",".quote-body {\n  font-size: 2rem;\n}\n"]}
